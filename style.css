@@ -1,0 +1,30 @@
+/*
+Theme Name: FirmaSite Child
+Theme URI: http://theme.firmasite.com/
+Template: firmasite
+Author: FirmaSite
+Author URI: http://firmasite.com/
+Description: Free responsive WordPress theme with Buddypress and bbPress supports. Have 4 different layout: content-sidebar,sidebar-content, full content (long), full content(short). 13 different theme styles, Google Fonts, logo upload abilities. Unique 2 feature builtin: Promotion Bar and ShowCase. All options are using WordPress Theme Customizer feature so you can watch changes live! Designers: This theme built on Twitter Bootstrap, have 0 custom css code and using template_part system so you can easily use it as parent theme! You can find detailed information, showcase, live demo, tips and tricks about theme in: http://theme.firmasite.com/
+Tags: buddypress,post-formats,custom-background,custom-colors,custom-menu,editor-style,featured-images,front-page-post-form,full-width-template,translation-ready,theme-options,threaded-comments,fixed-layout,fluid-layout,responsive-layout,one-column,two-columns,left-sidebar,right-sidebar,black,blue,gray,green,orange,purple,red,silver,white,yellow,dark,light
+Version: 1.5.3.1542550910
+Updated: 2018-11-18 09:21:50
+*/
+
+.rpr-times-container .rpr_times dl {
+	display: block;
+}
+
+.rpr-times-container .rpr_times dt {
+	display: inline;
+}
+
+.rpr-ingredients-container .rpr_servings {
+	text-align: left;
+}
+
+@media (min-width: 768px) {
+	.dl-horizontal dt {
+		float: none;
+	}
+}
+
